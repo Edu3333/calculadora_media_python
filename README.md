@@ -9,6 +9,7 @@ VScode ou PYcharm
 
 ### criador do app
 Eduardo Dias Trindade da Silva 
+
 [![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@email.com)](mailto:seuemail@email.com)  eduardo.tds05@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seuperfil)](https://linkedin.com/in/seuperfil)  https://www.linkedin.com/in/eduardodias-silva/
